@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dbad15159b1ff04db604a97933b6044, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Japa
+    characterSprite: {fileID: 21300000, guid: 21d95ec0f9e8e4b4f9f09114843724ed, type: 3}
+  - characterName: Juka
+    characterSprite: {fileID: 21300000, guid: e00ec0fbf8afde64990ee0541b72336a, type: 3}
