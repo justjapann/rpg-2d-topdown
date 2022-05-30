@@ -36,6 +36,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Character character = characterDB.GetCharacter(selectedOption);
         artworkSprite.sprite = character.characterSprite;
+         
     }
 
     private void Load()
@@ -53,6 +54,7 @@ public class PlayerMovement : MonoBehaviour
        animator.SetFloat("Horizontal", movement.x);
        animator.SetFloat("Vertical", movement.y);
        animator.SetFloat("Speed", movement.sqrMagnitude);
+
     }
 
     void FixedUpdate()

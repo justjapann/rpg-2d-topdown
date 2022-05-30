@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   character:
   - characterName: Japa
-    characterSprite: {fileID: 21300000, guid: 21d95ec0f9e8e4b4f9f09114843724ed, type: 3}
-  - characterName: Juka
-    characterSprite: {fileID: 21300000, guid: e00ec0fbf8afde64990ee0541b72336a, type: 3}
+    characterSprite: {fileID: 21300000, guid: 0f39a9205e4394ee1b6ba8269428d176, type: 3}
+  - characterName: chiyoku
+    characterSprite: {fileID: 21300000, guid: 5faa01228a0882d42925ca6cc4811be4, type: 3}
